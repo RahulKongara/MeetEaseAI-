@@ -1,1 +1,6 @@
-// Flows will be imported for their side effects in this file.
+import { config } from 'dotenv';
+config();
+
+import '@/ai/flows/extract-action-items.ts';
+import '@/ai/flows/analyze-meeting-audio-flow.ts';
+import '@/ai/flows/analyze-transcript-flow.ts';
