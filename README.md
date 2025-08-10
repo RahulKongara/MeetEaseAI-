@@ -15,6 +15,6 @@ Typescript (TS)
 ### Team Details
 K. Ratan (Leader) [GRIET]
 Aaron [CBIT]
-Vrishab [GRIET}
-Rahul [CMRCET}
+Vrishab [GRIET]
+Rahul [CMRCET]
 
